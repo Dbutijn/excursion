@@ -13,15 +13,16 @@ body {
   color: #FFF;
 }
 
-.header--secondary {
-  font-size: 21px;
-  color: grey;
-}
 
-.header--sub-header {
+.header--secondary {
   font-weight: 300;
   font-size: 42px;
   color: #FFF;
+}
+
+.header--sub-header {
+  font-size: 21px;
+  color: grey;
 }
 
 
